@@ -2,7 +2,7 @@
 ### step 0: Note
 > 该仓库针对项目内人员熟悉NodeMCU目的，不负责NodeMCU部分开发的人员可以暂时不需要了解除本仓库外其它仓库。当然在有时间的时候了解一下必定有好处。有任何问题随时与我沟通 
 
-> 协控硬件开发人员设计电路图时，可参考[NodeMCU官方参考电路板设计（v0.0）](https://github.com/nodemcu/nodemcu-devkit) [v0.1](https://github.com/nodemcu/nodemcu-devkit-v1.0)
+> 协控硬件开发人员设计电路图时，可参考NodeMCU官方参考电路板设计[v0.0](https://github.com/nodemcu/nodemcu-devkit) [v0.1](https://github.com/nodemcu/nodemcu-devkit-v1.0)
 
 > -- Zhang Te
 
