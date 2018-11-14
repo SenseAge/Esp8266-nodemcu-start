@@ -1,7 +1,9 @@
 # Esp8266-nodemcu-start
 
 ### step 1: 构建固件(Cloud service)
-> 在[nodemcu-build](https://nodemcu-build.com/) 在线构建固件,几分钟后会发送到邮箱
+> 在[nodemcu-build](https://nodemcu-build.com/) 选择固件模块,点击在线构建固件,几分钟后固件会发送到邮箱
+
+> Smart Button 目前使用的固件模块有: file, gpio, http, net, node, pwm, sjson, tmr, uart, wifi
 
 ### step 2: 烧录固件
 1. windows:
