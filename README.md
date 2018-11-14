@@ -10,6 +10,7 @@
 2. Linux:
 > pip install esptool安装esptool.py
 > esptool.py --port [端口] write_flash 0x0000 固件名称.bin
+
 > 端口可以使用[USB-Serial-tool-Kitty](https://github.com/SenseAge/USB-Serial-tool-Kitty)下的shell脚本快速查看
 
 ### step 3: 上传Lua代码
