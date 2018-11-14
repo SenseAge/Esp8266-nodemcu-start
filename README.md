@@ -9,7 +9,9 @@
 
 2. Linux:
 > 执行 **```pip install esptool```** 安装esptool.py
+
 > 执行 **```esptool.py --port [端口] write_flash 0x0000 固件名称.bin```** 下载固件
+
 > 执行 **```esptool.py erase_flash```** 可以擦除flash内容
 
 > 端口可以使用[USB-Serial-tool-Kitty](https://github.com/SenseAge/USB-Serial-tool-Kitty)下的shell脚本快速查看
