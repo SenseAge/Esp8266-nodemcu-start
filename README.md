@@ -13,7 +13,7 @@
 
 ### step 2: 烧录固件
 1. windows:
-> 解压flash_download_tools_v3.6.2.2_1.zip, 双击exe, 选择上面构建的固件,起始地址为0x0
+> 解压本仓库flash_download_tools_v3.6.2.2_1.zip, 双击exe, 选择上面构建的固件,起始地址为0x0
 
 2. Linux:
 > 执行 **```pip install esptool```** 安装esptool.py
@@ -27,6 +27,6 @@
 > 端口可以使用[USB-Serial-tool-Kitty](https://github.com/SenseAge/USB-Serial-tool-Kitty)下的shell脚本快速查看
 
 ### step 3: 上传Lua代码(Cross platform)
-> 执行 **```java -jar ESPlorer.jar```** 波特率选择115200
+> 执行本仓库java包 **```java -jar ESPlorer.jar```** 波特率选择115200
 
 NodeMCU启动时总是从init.lua开始执行
