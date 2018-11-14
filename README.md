@@ -14,7 +14,7 @@
 
 > 如果上面命令安装速度慢,可使用国内镜像代理, **``` pip install -i https://pypi.tuna.tsinghua.edu.cn/simple esptool ```**
 
-> 执行 **```esptool.py --port [端口] write_flash 0x0000 固件名称.bin```** 下载固件
+> 执行 **```esptool.py --port [端口] write_flash 0x0000 固件名称```** 下载固件
 
 > 执行 **```esptool.py erase_flash```** 可以擦除flash内容
 
