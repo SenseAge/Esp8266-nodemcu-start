@@ -1,6 +1,7 @@
 # Esp8266-nodemcu-start
-note: 该仓库针对项目内人员熟悉NodeMCU目的，不负责nodemcu部分开发的人员可以暂时不需要了解除本仓库外其它仓库。当然在有时间的时候了解一下必定有好处。有任何问题随时与我沟通 
--- Zhang Te
+> Note: 该仓库针对项目内人员熟悉NodeMCU目的，不负责nodemcu部分开发的人员可以暂时不需要了解除本仓库外其它仓库。当然在有时间的时候了解一下必定有好处。有任何问题随时与我沟通 
+
+> -- Zhang Te
 
 ### step 1: 构建固件(Cloud service)
 > 在[nodemcu-build](https://nodemcu-build.com/) 选择固件模块,点击在线构建固件,几分钟后固件会发送到邮箱
