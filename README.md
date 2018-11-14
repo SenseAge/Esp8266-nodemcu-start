@@ -12,7 +12,7 @@
 2. Linux:
 > 执行 **```pip install esptool```** 安装esptool.py
 
-> 如果速度慢,可使用国内镜像代理, **``` pip install -i https://pypi.tuna.tsinghua.edu.cn/simple esptool ```**
+> 如果上面命令安装速度慢,可使用国内镜像代理, **``` pip install -i https://pypi.tuna.tsinghua.edu.cn/simple esptool ```**
 
 > 执行 **```esptool.py --port [端口] write_flash 0x0000 固件名称.bin```** 下载固件
 
