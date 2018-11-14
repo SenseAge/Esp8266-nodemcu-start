@@ -18,7 +18,7 @@
 
 > 端口可以使用[USB-Serial-tool-Kitty](https://github.com/SenseAge/USB-Serial-tool-Kitty)下的shell脚本快速查看
 
-### step 3: 上传Lua代码(Cross plat-form)
+### step 3: 上传Lua代码(Cross platform)
 > 执行 **```java -jar ESPlorer.jar```** 波特率选择115200
 
 NodeMCU启动时总是从init.lua开始执行
