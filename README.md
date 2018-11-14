@@ -18,3 +18,5 @@
 
 ### step 3: 上传Lua代码(Cross plat-form)
 > 执行 **```java -jar ESPlorer.jar```** 波特率选择115200
+
+NodeMCU启动时总是从init.lua开始执行
