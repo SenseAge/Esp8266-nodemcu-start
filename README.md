@@ -1,6 +1,6 @@
 # Esp8266-nodemcu-start
 
-### step 1: 构建固件
+### step 1: 构建固件(Cloud service)
 > 在[nodemcu-build](https://nodemcu-build.com/) 在线构建固件,几分钟后会发送到邮箱
 
 ### step 2: 烧录固件
@@ -13,5 +13,5 @@
 
 > 端口可以使用[USB-Serial-tool-Kitty](https://github.com/SenseAge/USB-Serial-tool-Kitty)下的shell脚本快速查看
 
-### step 3: 上传Lua代码
+### step 3: 上传Lua代码(Cross plat-form)
 > 执行 java -jar ESPlorer.jar 波特率选择115200
