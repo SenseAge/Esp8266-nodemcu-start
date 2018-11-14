@@ -4,7 +4,7 @@
 
 > -- Zhang Te
 
-### step 1: 构建固件(Cloud service)
+### step 1: 构建固件(Online service)
 > 在[nodemcu-build](https://nodemcu-build.com/) 选择固件模块,点击在线构建固件,几分钟后固件会发送到邮箱
 
 > IoT Button 目前使用的固件模块有: file, gpio, http, net, node, pwm, sjson, tmr, uart, wifi
