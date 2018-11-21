@@ -1,10 +1,10 @@
 # NodeMCU Based Esp8266 Start
 ### step 0: Note
-> 该仓库针对项目内人员熟悉NodeMCU目的，不负责NodeMCU部分开发的人员可以暂时不需要了解除本仓库外其它仓库。当然想了解一下必定也很有意思。有任何问题随时与我沟通 
+> 该文档目的在于项目内人员熟悉NodeMCU开发流程，不负责NodeMCU部分开发的人员可以暂时不需要了解除本仓库外其它仓库。当然想了解一下也请随意。有任何问题随时与我沟通 
 
 > 协控硬件开发人员设计电路图时，可参考NodeMCU官方参考电路板设计[**v0.0**](https://github.com/nodemcu/nodemcu-devkit)   [**v0.1**](https://github.com/nodemcu/nodemcu-devkit-v1.0)
 
-> -- Zhang Te
+> @author: ZHANG Te
 
 ### step 1: 构建固件(Online service)
 > 在[nodemcu-build](https://nodemcu-build.com/) 选择固件模块,点击在线构建固件,几分钟后固件会发送到邮箱
