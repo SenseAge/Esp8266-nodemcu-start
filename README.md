@@ -1,4 +1,4 @@
-# NodeMCU based Esp8266 start
+# NodeMCU Based Esp8266 Start
 ### step 0: Note
 > 该仓库针对项目内人员熟悉NodeMCU目的，不负责NodeMCU部分开发的人员可以暂时不需要了解除本仓库外其它仓库。当然想了解一下必定也很有意思。有任何问题随时与我沟通 
 
